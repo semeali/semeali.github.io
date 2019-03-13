@@ -1,0 +1,8 @@
+cd Desktop/pagina_github
+
+OBS.: no cado do notebook ASUS primeiro dar um cd Github depois dar um cd felipenazato.github.io
+
+git pull
+git add -A
+git commit -m "mensagem"
+git push -u origin master
